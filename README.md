@@ -91,12 +91,6 @@ telecom-churn-prediction/
 ├── requirements.txt
 └── churn_prediction.py
 ```
-
----
-
-### 🔗 [Optional] Tableau Dashboard
-> *(Embed or link to Tableau dashboard if created – e.g., customer churn rates by demographics, services used, etc.)*
-
 ---
 
 ### 💼 Relevance to Entry-Level Data Science
